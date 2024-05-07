@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "In this repository, we apply DDD concepts on a Nest project.",
   "author": "Pouria Mirebrahimi <me@pouriam.ir>",
-  "private": "false",
   "license": "MIT",
   "scripts": {
     "build": "nest build",
@@ -69,5 +68,6 @@
   "volta": {
     "node": "22.1.0",
     "yarn": "4.2.1"
-  }
+  },
+  "packageManager": "yarn@4.2.1"
 }
